@@ -1,3 +1,14 @@
 
 
 
+.btn__size{
+    border-radius: 60px;
+    height: 0;
+    width: 0px;
+    background-color: black;
+    color: black;
+    outline: none;
+  
+    
+}
+
