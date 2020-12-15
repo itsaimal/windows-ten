@@ -6,7 +6,7 @@ import OpenInBrowserIcon from '@material-ui/icons/OpenInBrowser';
 import EvStationIcon from '@material-ui/icons/EvStation';
 import RssFeedIcon from '@material-ui/icons/RssFeed';
 import VolumeUpIcon from '@material-ui/icons/VolumeUp';
-import MessageIcon from '@material-ui/icons/Message';import Menu from "./Menu"
+import MessageIcon from '@material-ui/icons/Message';
 
 import LaptopWindowsTwoToneIcon from '@material-ui/icons/LaptopWindowsTwoTone';
 
@@ -14,7 +14,7 @@ function Nav() {
     return (
         <div className="nav">
            
-          {/* <Menu/> */}
+          
             <div className="nav__left">
          
             <div className="navleft__one">
