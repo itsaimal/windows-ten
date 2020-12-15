@@ -8,7 +8,6 @@ import RssFeedIcon from '@material-ui/icons/RssFeed';
 import VolumeUpIcon from '@material-ui/icons/VolumeUp';
 import MessageIcon from '@material-ui/icons/Message';
 
-import LaptopWindowsTwoToneIcon from '@material-ui/icons/LaptopWindowsTwoTone';
 
 function Nav() {
     return (
@@ -18,14 +17,12 @@ function Nav() {
             <div className="nav__left">
          
             <div className="navleft__one">
-           < LaptopWindowsTwoToneIcon style={{fill: "white"}}/>
+            <FolderOpenIcon style={{fill: "yellow"}}/>
             </div>
             <div className="navleft__two">
-         <FolderOpenIcon style={{fill: "yellow"}}/>
+            <OpenInBrowserIcon style={{fill: "white"}}/>
          </div>
-         <div className="navleft__two">
-         <OpenInBrowserIcon style={{fill: "white"}}/>
-         </div>
+        
         
             </div>
 

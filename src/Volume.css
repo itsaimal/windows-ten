@@ -1,0 +1,10 @@
+
+.volume {
+    background-color: #111;
+    opacity: 0.9;
+    height: 70px;
+    width: 210px;
+    border-radius: 5px;
+    margin-left: -15px;
+    margin-top: -90px;
+}

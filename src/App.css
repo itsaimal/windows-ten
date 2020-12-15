@@ -1,4 +1,6 @@
-
+.app{
+   
+}
 
 
 .btn__size{
@@ -15,14 +17,24 @@
     
 }
 
-.app__start{
-    margin-top: 520px;
-    z-index: 2;
+.app__start {
+    z-index: -5;
+    margin-top: -20px;
+    margin-left: -47px;
+    background-color: #111;
+    
 }
 
 .btn__main{
     
     margin-left: 50px;
+    background-color: #111;
    
+}
+
+.app__volume {
+   margin-left: 1270px;
+   margin-top: 600px;
+   z-index: -5;
 }
 
